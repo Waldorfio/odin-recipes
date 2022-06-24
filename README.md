@@ -1,3 +1,4 @@
 # odin-recipes
-This is a basic recipe website, built using html.
-No CSS styling has been applied thus far. The webpage was created with the intent purpose of practicing HTML skills.
+This is website with special recipes that you MUST look at.
+The pages were created using HTML, and styled with CSS.
+Developed for practice refining HTML and CSS skills.
