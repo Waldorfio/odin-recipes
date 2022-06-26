@@ -1,0 +1,7 @@
+.container1 {
+    display: flex;
+    flex-flow: column wrap;
+}
+    .gif {
+        flex: 1;  /* fixes gif stretching */
+    }
